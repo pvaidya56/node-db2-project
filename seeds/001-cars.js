@@ -1,7 +1,7 @@
 exports.seed = function(knex) {
 
   const testData = [
-    {VIN: 'rowValue1', make: '', model: '', mileage: '', transmission: '', title status: ''},
+    {VIN: 'rowValue1', make: '', model: '', mileage: '', transmission: '', title_status: ''},
     {VIN: 'rowValue2'},
     {VIN: 'rowValue3'}
   ]
